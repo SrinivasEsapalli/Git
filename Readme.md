@@ -9,7 +9,7 @@ to come out from the particular directory
 to move into a particular directory
 ## touch filename Ex: touch Readme.md
 it will create the readme file
-## echo " contemnt"
+## echo " contennt"
 to add the content into the file
 ## git add Readmee.md(filename)
 saves the particular file in the staging area
