@@ -5,7 +5,7 @@
 gives the list of files at the particular directory
 ## cd..
 to come out from the particular directory
-## cd directory name or file path
+## cd "directory name or file path" (in double quotes)
 to move into a particular directory
 ## touch filename Ex: touch Readme.md
 it will create the readme file
