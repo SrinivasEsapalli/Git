@@ -20,6 +20,12 @@ saves the particular file in the staging area
 ## git add .
 it saves all the available files in the staging area.
 
+## git rm file name
+to remove a file 
+
+## git rm -r directoryname
+to remove a directory 
+
 ## git commit -m " commit message ex: files is createed or updated"
 
 it will saves the files in the local repo
@@ -38,3 +44,6 @@ it will gives the present working directory
 
 ## git clone 
 https://github.com/SrinivasEsapalli/Git.git
+
+
+
