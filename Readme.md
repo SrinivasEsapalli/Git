@@ -9,7 +9,7 @@ to come out from the particular directory
 to move into a particular directory
 ## touch filename Ex: touch Readme.md
 it will create the readme file
-## echo " contemnt"
+## echo " content"
 to add the content into the file
 ## git add Readmee.md(filename)
 saves the particular file in the staging area
@@ -28,3 +28,9 @@ Here main is the branch name we can mention the branh name to which we are plamn
 ## git diff
 
 it will show the changes in the files from previous commit to this commit.
+
+## git pwd
+it will gives the present working directory
+
+## git clone 
+https://github.com/SrinivasEsapalli/Git.git
