@@ -1,5 +1,10 @@
 # welcome to git
 
+
+
+## To create a directory(folder) using cmd/git bash
+mkdir folder name
+
 ## coomands for git in Gitbash
 ## ls
 gives the list of files at the particular directory
