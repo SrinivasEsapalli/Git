@@ -68,5 +68,7 @@ it will gives the present working directory
 ## git clone 
 https://github.com/SrinivasEsapalli/Git.git
 
+## git log
+it gives all the recent commits
 
 
