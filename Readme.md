@@ -1,6 +1,6 @@
 # welcome to git
 
-- [ Vi Editor ](#vieditor)
+- [ Vi Editor ](#Vi Editor)
 
 ## git helps to move to any version of a software ..older and new versions are saved  so it is called version control
 
