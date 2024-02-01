@@ -22,6 +22,7 @@ to come out from the particular directory
 helps to come out  from two directories
 
 <a name="Vi Editor"></a>
+### Vi Editor
 
 ## vi filename
 - to edit file inside gitash using vi editor
