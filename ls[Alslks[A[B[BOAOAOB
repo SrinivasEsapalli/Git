@@ -1,0 +1,130 @@
+[33mcommit 359556ceec384359fd1190e684b224610cd6fc9c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: srinivas <srinivasesapalli@gmail.com>
+Date:   Thu Feb 1 11:24:27 2024 -0600
+
+    vi editor
+
+[33mcommit bdff119645b9509bf1cbf082b8b50844e8bd7ac0[m
+Author: srinivas <srinivasesapalli@gmail.com>
+Date:   Thu Feb 1 11:22:54 2024 -0600
+
+    vi editor
+
+[33mcommit ae5437573632913afab31174288957877b406e7a[m
+Author: srinivas <srinivasesapalli@gmail.com>
+Date:   Thu Feb 1 11:15:11 2024 -0600
+
+    vi editor
+
+[33mcommit 7794274271121b85747fafd7e5937623d1adc077[m
+Author: srinivas <srinivasesapalli@gmail.com>
+Date:   Thu Feb 1 11:11:50 2024 -0600
+
+    vi editor
+
+[33mcommit 4aada8a388a77b873478ca979e4dacb72b4a91bf[m
+Merge: 983689c 8d44fb7
+Author: srinivas <srinivasesapalli@gmail.com>
+Date:   Thu Feb 1 10:57:45 2024 -0600
+
+    linux commands
+
+[33mcommit 983689cc8ce94996fc924f903294a518db50850a[m
+Author: srinivas <srinivasesapalli@gmail.com>
+Date:   Thu Feb 1 10:57:06 2024 -0600
+
+    linux commands
+
+[33mcommit 8d44fb7d03422307df957a9e1856b83bc1aaae83[m
+Author: Srinivas Esapalli <46350902+SrinivasEsapalli@users.noreply.github.com>
+Date:   Thu Feb 1 10:48:27 2024 -0600
+
+    Update version-control.md
+    
+    delete
+
+[33mcommit 9f66609aa85ea07faabbed59710a25e5ea3c30ac[m
+Merge: 18ce9bb 75a712b
+Author: srinivas <srinivasesapalli@gmail.com>
+Date:   Thu Feb 1 10:44:10 2024 -0600
+
+    updating the files
+
+[33mcommit 18ce9bbb3d9c59ac93cd41ae940531befa35561b[m
+Author: srinivas <srinivasesapalli@gmail.com>
+Date:   Thu Feb 1 10:41:40 2024 -0600
+
+    updating the files
+
+[33mcommit 75a712b053417c5f138070bbb4efb0df2a6cea82[m
+Author: Srinivas Esapalli <46350902+SrinivasEsapalli@users.noreply.github.com>
+Date:   Thu Feb 1 10:40:01 2024 -0600
+
+    Rename ssh.readme to ssh.md
+    
+    changing the file name
+
+[33mcommit 32ec646e7a4da2bf95d4686bb79bb03e21045b9e[m
+Author: Srinivas Esapalli <46350902+SrinivasEsapalli@users.noreply.github.com>
+Date:   Thu Feb 1 10:32:33 2024 -0600
+
+    Rename Version Control.readme.txt to version-control.md
+    
+    chnaged the file name
+
+[33mcommit f0945b6dd7253e3a2490c575aa0ce592f466dcad[m
+Author: srinivas <srinivasesapalli@gmail.com>
+Date:   Wed Jan 31 21:02:40 2024 -0600
+
+    new changes
+
+[33mcommit 04056e882928e3ad833e8438119fd042e5e2021f[m
+Author: Srinivas Esapalli <46350902+SrinivasEsapalli@users.noreply.github.com>
+Date:   Mon Oct 30 19:32:19 2023 -0500
+
+    creating directorys
+
+[33mcommit 1ea122ada992f5ccdf0394974c07753a1bc1381a[m
+Author: Srinivas <srinivasesapalli@gmail.com>
+Date:   Tue Oct 17 06:13:17 2023 -0500
+
+     updated the readme.md
+
+[33mcommit 71398680c494b62671f083330abfc3d97bdc9aa0[m
+Merge: c941e7d 004f76e
+Author: Srinivas <srinivasesapalli@gmail.com>
+Date:   Tue Oct 17 05:37:44 2023 -0500
+
+    updating Readme.md
+
+[33mcommit c941e7d6cc50280f7b4aaa50214d6704d8de250f[m
+Author: Srinivas <srinivasesapalli@gmail.com>
+Date:   Tue Oct 17 05:36:46 2023 -0500
+
+    updating Readme.md
+
+[33mcommit 004f76ed610f3f221bd25c01694957cd8146370d[m
+Author: Srinivas Esapalli <46350902+SrinivasEsapalli@users.noreply.github.com>
+Date:   Mon Oct 16 05:12:43 2023 -0500
+
+    Update Readme.md
+
+[33mcommit ca6efff3fd2e6f0876d37ddcb0daca591e73bb1b[m
+Author: Srinivas Esapalli <46350902+SrinivasEsapalli@users.noreply.github.com>
+Date:   Sun Oct 15 22:08:57 2023 -0500
+
+    Update Readme.md
+    
+    Updating changing the directories
+
+[33mcommit 339b4007b8ef02a8618d8ed8f6bee93ef3c54e98[m
+Author: Srinivas <srinivasesapalli@gmail.com>
+Date:   Wed Oct 11 00:26:41 2023 -0500
+
+    updating the readme file
+
+[33mcommit ecab56bae3280ad937cc843b36fdb1987a35d32e[m
+Author: Srinivas <srinivasesapalli@gmail.com>
+Date:   Wed Oct 11 00:04:04 2023 -0500
+
+    readme file created

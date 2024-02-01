@@ -26,9 +26,7 @@ helps to come out  from two directories
 
 ## vi filename
 - to edit file inside gitash using vi editor
-
-## :wq 
-- to save files in vi editor.
+- to save files in vi editor -> :wq 
 
 ## cd "directory name or file path" (in double quotes)
 to move into a particular directory
