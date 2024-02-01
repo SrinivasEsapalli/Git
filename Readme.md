@@ -1,6 +1,8 @@
 # welcome to git
 
+- [ Vi Editor ](#vieditor)
 
+## git helps to move to any version of a software ..older and new versions are saved  so it is called version control
 
 ## To create a directory(folder) using cmd/git bash
 mkdir folder name
@@ -8,8 +10,25 @@ mkdir folder name
 ## coomands for git in Gitbash
 ## ls
 gives the list of files at the particular directory
+
+## -lrt
+ to list all the files and directories in system
+
+
 ## cd..
 to come out from the particular directory
+
+## cd../..
+helps to come out  from two directories
+
+<a name="Vi Editor"></a>
+
+## vi filename
+- to edit file inside gitash using vi editor
+
+## :wq 
+- to save files in vi editor.
+
 ## cd "directory name or file path" (in double quotes)
 to move into a particular directory
 ## touch filename Ex: touch Readme.md
