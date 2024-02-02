@@ -3,14 +3,11 @@
 
 - [listcommands](#list-commands)
 - [ Editor ](#vi-editor)
-- [Repo by gitbash](#directory)
-
-
-
-
+- [ directory creation](#directory)
 
 
 <a name="list commands"></a>
+##listcommands
 ## ls
 gives the list of files at the particular directory
 
