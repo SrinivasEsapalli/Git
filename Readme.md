@@ -1,9 +1,9 @@
 # welcome to git
 - git helps to move to any version of a software ..older and new versions are saved  so it is called version control
 
-- [listcommands](#list-commands)
+- [ listcommands ](#list-commands)
 - [ Editor ](#vi-editor)
-- [ directory creation](#directory)
+- [ directory ](#new-directory)
 
 
 <a name="list commands"></a>
