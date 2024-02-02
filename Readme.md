@@ -14,8 +14,8 @@
 ## ls
 gives the list of files at the particular directory
 
-## -lrt
- to list all the files and directories in system
+## ls -lrt
+ prints the files and directories in the reverse order
 
 ## ls -l
 to list all the files with their permissions
