@@ -6,6 +6,7 @@
 - [ directory ](#new-directory)
 
 
+
 <a name="list commands"></a>
 ##listcommands
 ## ls
@@ -36,7 +37,7 @@ helps to come out  from two directories
 - to edit file inside gitash using vi editor
 - to save files in vi editor -> :wq 
 
-<a name="direcory creation"></a>
+<a name="new directory"></a>
 ## Repo by gitbash
 
 ##  mkdir folder name
