@@ -1,14 +1,15 @@
 # welcome to git
 - git helps to move to any version of a software ..older and new versions are saved  so it is called version control
 
-- [ listcommands ](#list-commands)
+- [ list commands ](#list-commands)
 - [ Editor ](#vi-editor)
-- [ directory ](#new-directory)
+- [ New Directory ](#new-directory)
 
 
 
 <a name="list commands"></a>
-##listcommands
+
+## listcommands
 ## ls
 gives the list of files at the particular directory
 
@@ -37,7 +38,7 @@ helps to come out  from two directories
 - to edit file inside gitash using vi editor
 - to save files in vi editor -> :wq 
 
-<a name="new directory"></a>
+<a name="New Directory"></a>
 ## Repo by gitbash
 
 ##  mkdir folder name
