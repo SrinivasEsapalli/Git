@@ -1,14 +1,13 @@
 # welcome to git
 - git helps to move to any version of a software ..older and new versions are saved  so it is called version control
 
-- [listcommands](list-commands)
+- [listcommands](#list-commands)
 - [ Editor ](#vi-editor)
-- [Repo by gitbash](directory)
+- [Repo by gitbash](#directory)
 
 
 
-## To create a directory(folder) using cmd/git bash
-mkdir folder name
+
 
 
 <a name="list commands"></a>
@@ -37,8 +36,13 @@ helps to come out  from two directories
 - to edit file inside gitash using vi editor
 - to save files in vi editor -> :wq 
 
-<a name="direcory"></a>
+<a name="direcory creation"></a>
 ## Repo by gitbash
+
+##  mkdir folder name
+To create a directory(folder) using cmd/git bash
+## touch filename
+to create the files
 
 
 -create a folder n initialize the files then
