@@ -1,24 +1,33 @@
 # welcome to git
 - git helps to move to any version of a software ..older and new versions are saved  so it is called version control
 
+- [listcommands](list-commands)
 - [ Editor ](#vi-editor)
+- [Repo by gitbash](directory)
+
 
 
 ## To create a directory(folder) using cmd/git bash
 mkdir folder name
 
-## coomands for git in Gitbash
+
+<a name="list commands"></a>
 ## ls
 gives the list of files at the particular directory
 
 ## -lrt
  to list all the files and directories in system
 
+## ls -l
+to list all the files with their permissions
+## ls -a
+list all the hidden files
 
-## cd..
+
+## cd ..
 to come out from the particular directory
 
-## cd../..
+## cd ../ ..
 helps to come out  from two directories
 
 <a name="Vi Editor"></a>
@@ -28,15 +37,39 @@ helps to come out  from two directories
 - to edit file inside gitash using vi editor
 - to save files in vi editor -> :wq 
 
+<a name="direcory"></a>
+## Repo by gitbash
+
+
+-create a folder n initialize the files then
+### git init
+ to make a directory as repo using git bash
+### git switch -c main 
+to change to particular branch
+### git remote -v 
+it will show the linked remote repos
+
+### git remote origin git link
+links to the github
+
+### git push origin main
+pushes to the main origin
+
+
+
+
+
+
+
+
 ## cd "directory name or file path" (in double quotes)
 to move into a particular directory
 ## touch filename Ex: touch Readme.md
 it will create the readme file
-<<<<<<< HEAD
+
 ## echo " content"
-=======
+
 ## echo " contennt"
->>>>>>> 004f76ed610f3f221bd25c01694957cd8146370d
 to add the content into the file
 ## git add Readmee.md(filename)
 saves the particular file in the staging area
@@ -70,5 +103,8 @@ https://github.com/SrinivasEsapalli/Git.git
 
 ## git log
 it gives all the recent commits
+
+## git branch 
+to check the current working branch
 
 
