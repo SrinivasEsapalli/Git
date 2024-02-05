@@ -38,6 +38,7 @@ helps to come out  from two directories
 - to edit file inside gitash using vi editor
 - to save files in vi editor -> :wq 
 
+
 <a name="New Directory"></a>
 ## Repo by gitbash
 
