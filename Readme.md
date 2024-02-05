@@ -4,11 +4,12 @@
 - [ list commands ](#list-commands)
 - [ Editor ](#vi-editor)
 - [ New Directory ](#new-directory)
+- [ General commands](#general-cmd)
+- [Git branches](#branches)
 
 
 
-
-### list commands
+## list commands
 
 ## ls
 gives the list of files at the particular directory
@@ -41,6 +42,7 @@ helps to come out  from two directories
 
 
 
+
 ## new-directory
 
 ##  mkdir folder name
@@ -67,7 +69,7 @@ pushes to the main origin
 
 
 
-
+## general cmd
 
 
 ## cd "directory name or file path" (in double quotes)
@@ -115,4 +117,41 @@ it gives all the recent commits
 ## git branch 
 to check the current working branch
 
+### code .
+opens visual studio for the repository.
 
+### git commit --ammend
+
+helps to undo the committed message.
+i.e helps to undoing the last commit and we can make it in a single commit.
+
+### .gitignore
+ -> helps to avoid commiting of some untracked files.
+Ex: passwords etc..
+
+### git diff 
+- it will shoiw all the changes in the commit.
+### note: add and commit every changes atleast in local repo to see the difference n other flow.git
+
+## branches
+
+### git branch branch_mame
+To create a new branch
+
+### git branch
+To see all the available branches
+
+### git switch branch_name
+To switch between branches
+
+### git switch -c branch_name
+it wil create and switches to the new branch.
+
+### git merge coding
+it will branch both branches
+- got to the detination branch
+- hit the merge command
+
+#### merge conflicts
+- if same file has different code in the destinaton branch it will raise conflict.
+- we can fix it by merging or accepting both changes in the code.
