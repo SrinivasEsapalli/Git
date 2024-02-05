@@ -40,8 +40,8 @@ helps to come out  from two directories
 
 
 
-<a name="New Directory"></a>
-## Repo by gitbash
+
+## new-directory
 
 ##  mkdir folder name
 To create a directory(folder) using cmd/git bash
