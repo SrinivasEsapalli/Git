@@ -8,7 +8,7 @@
 
 
 <a name="list commands"></a>
-### listcommands
+### list commands
 
 ## ls
 gives the list of files at the particular directory
