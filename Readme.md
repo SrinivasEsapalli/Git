@@ -7,7 +7,7 @@
 
 
 
-<a name="list commands"></a>
+
 ### list commands
 
 ## ls
@@ -37,6 +37,7 @@ helps to come out  from two directories
 ## vi filename
 - to edit file inside gitash using vi editor
 - to save files in vi editor -> :wq 
+
 
 
 <a name="New Directory"></a>
