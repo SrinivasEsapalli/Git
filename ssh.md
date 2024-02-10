@@ -14,7 +14,7 @@ ex: $ cd "C:/Users/srini/OneDrive/Desktop/Devops/Git"
 used  ident prove the identity when connecting to the amazon ec2 instance.
 
 ## giving permissions to pem.file
-ex: chmod 400 file.pem
+ex: chmod 777 file.pem
 it gives read etc permissions for the file.
 
 ## creating directory and file
