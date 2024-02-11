@@ -41,6 +41,9 @@ o/p:
 :x:1:1:bin:/bin:/sbin/nologin
 :x:2:2:daemon:/sbin:/sbin/nologin
 
+### sed '/enetr text where we need to insert/i----' file_name
+![screenshot]([https://github.com/SrinivasEsapalli/Git/blob/main/text_proccessing_cmd/screenshot/sed_insertion.jpg)])
+
 
 
 
