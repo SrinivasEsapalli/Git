@@ -17,6 +17,9 @@ File Management commands:
 to check the available users or owners
 
 # add paint nenu vesindi image and manasa image
+![screenshot](https://github.com/SrinivasEsapalli/Git/blob/main/filehandling/screenshots/FP.jpg.png)
+![screenshot](https://github.com/SrinivasEsapalli/Git/blob/main/filehandling/screenshots/File_permissions.jpeg)
+
 
 ## Adding users(user is also called as owmer) 
 - we can add or remove permissins for particular file.
