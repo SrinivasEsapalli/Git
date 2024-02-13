@@ -8,7 +8,10 @@
 ### grep 
 seraches for string in group of files.
 
+## Sed
 ## Sed 's/to-be-replaced/new-word' filename
+-s is used for the substitute
+- we use -e also which expression
 - it is used for searching, inserting etc..
 ### sed 's/*//' /etc/passwd
 prints all the content
