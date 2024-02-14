@@ -51,16 +51,17 @@ To create a directory(folder) using cmd/git bash
 to create the files
 
 
--create a folder n initialize the files then
+-create a folder and initialize the files then
 ### git init
- to make a directory as repo using git bash
+ to make a directory as a repo using git bash
 ### git switch -c main 
-to change to particular branch
+to change to a particular branch
 ### git remote -v 
 it will show the linked remote repos
 
-### git remote origin git link
-links to the github
+### git remote add origin REMOTE-URL 
+- links to the GitHub
+- doubt git remote origin git link
 
 ### git push origin main
 pushes to the main origin
