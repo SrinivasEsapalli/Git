@@ -1,5 +1,5 @@
-# welcome to git
-- git helps to move to any version of a software ..older and new versions are saved  so it is called version control
+# Git
+- git helps to move to any version of software ..older and new versions are saved  so it is called version control
 
 - [ list commands ](#list-commands)
 - [ Editor ](#vi-editor)
