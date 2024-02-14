@@ -16,7 +16,10 @@ File Management commands:
 ### cd/home
 to check the available users or owners
 
-# add paint nenu vesindi image and manasa image
+# File Permissions
+![screenshot](https://github.com/SrinivasEsapalli/Git/blob/main/filehandling/screenshots/FP.jpg.png)
+![screenshot](https://github.com/SrinivasEsapalli/Git/blob/main/filehandling/screenshots/File_permissions.jpeg)
+
 
 ## Adding users(user is also called as owmer) 
 - we can add or remove permissins for particular file.
