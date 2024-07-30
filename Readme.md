@@ -59,7 +59,9 @@ to create the files
 
 ### git remote add origin REMOTE-URL 
 - links to the GitHub
-- doubt git remote origin git link
+
+### Remote-URL
+need to create a new repository in github and copy paste it here.. 
 
 ### git push origin main
 - pushes to the main origin
